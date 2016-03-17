@@ -1,4 +1,4 @@
-#Git and Github
+# Git and Github
 Version control and collaboration.
 Version control – the management of changes to documents
 Slutt å lage versjonsnavn….
